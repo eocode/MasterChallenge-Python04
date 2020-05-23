@@ -3,7 +3,6 @@
 Un decorador es una función que recibe como parámetro otra función, le añade cosas, y retorna una nueva función.
 
 ### RETO
-
 Completa los decoradores `div`, `article` y `p` en el archivo `html_decorators.py` y decora a la función
 `saludo` con uno a la vez. Ejecuta tu script, y por cada decorador deberías tener los outputs especificados dentro del archivo en el que estás trabajando.
 
